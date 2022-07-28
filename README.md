@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akanksh_m_" target="blank"><img src="https://img.shields.io/twitter/follow/akanksh_m_?logo=twitter&style=for-the-badge" alt="akanksh_m_" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://snipboard.io/lt8JLC.jpg")
+<img align="right" alt="Coding" width="400" src="https://snipboard.io/lt8JLC.jpg">
 
 - 🔭 I’m currently working on [CHAZ-BOT](dsc.gg/chaz-bot)
 
