@@ -11,9 +11,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://snipboard.io/lt8JLC.jpg">
 
-- 🔭 I’m currently working on [CHAZ-BOT](dsc.gg/chaz-bot)
 
-- 🌱 I’m currently learning **Full Stack Data Scientist Bootcamp course from udemy.**
+- 🌱 I’m currently learning **Full Stack Data Scientist Bootcamp course from datamentor.ai.**
 
 - 👨‍💻 All of my projects are available at [akankshmakam.github.io](akankshmakam.github.io)
 
